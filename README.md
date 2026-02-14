@@ -20,11 +20,11 @@ A simple and secure login authentication web application built with **Flask** an
 
 ## Tech Stack
 
-- **Backend:** Flask (Python) :contentReference
-- **Database:** MongoDB Atlas (Flask-PyMongo / PyMongo) :contentReference
-- **Security:** Flask-Bcrypt (password hashing) :contentReference
-- **Frontend:** HTML, CSS, JavaScript :contentReference
-- **Config:** python-dotenv (.env environment variables) :contentReference
+- **Backend:** Flask (Python)
+- **Database:** MongoDB Atlas (Flask-PyMongo / PyMongo)
+- **Security:** Flask-Bcrypt (password hashing)
+- **Frontend:** HTML, CSS, JavaScript
+- **Config:** python-dotenv (.env environment variables)
 
 ---
 
